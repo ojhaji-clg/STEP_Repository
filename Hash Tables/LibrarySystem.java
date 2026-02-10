@@ -15,6 +15,6 @@ public class LibrarySystem {
 
         //Load factor = no of entries / number of buckets
         // default is  0.75
-        System.out.println("Size: " + library.size());
+        System.out.println("Size : " + library.size());
     }
 }
